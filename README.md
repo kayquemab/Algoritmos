@@ -13,6 +13,7 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 ├── 📂 PASSO 03 - CONDIÇÕES COMPOSTAS<br>
 ├── 📂 PASSO 04 - REPETIÇÕES ENQUANTO<br>
 ├── 📂 PASSO 05 - ENQUANTO COM FLAG<br>
+├── 📂 PASSO 06 - REPETIÇÃO COM FAÇA ENQUANTO<br>
 └── 📑 exercicios-algoritmos<br>
 
 ### 🚀 Como Usar
