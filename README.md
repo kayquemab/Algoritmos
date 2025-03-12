@@ -14,7 +14,8 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 ├── 📂 PASSO 04 - REPETIÇÕES ENQUANTO<br>
 ├── 📂 PASSO 05 - ENQUANTO COM FLAG<br>
 ├── 📂 PASSO 06 - REPETIÇÃO COM FAÇA ENQUANTO<br>
-├── 📂 PASSO 07 - REPETIÇÃO COM PARA <br>
+├── 📂 PASSO 07 - REPETIÇÃO COM PARA<br>
+├── 📂 PASSO 08 - VETORES<br>
 └── 📑 exercicios-algoritmos<br>
 
 ### 🚀 Como Usar
