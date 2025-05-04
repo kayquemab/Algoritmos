@@ -16,6 +16,7 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 ├── 📂 PASSO 06 - REPETIÇÃO COM FAÇA ENQUANTO<br>
 ├── 📂 PASSO 07 - REPETIÇÃO COM PARA<br>
 ├── 📂 PASSO 08 - VETORES<br>
+├── 📂 PASSO 09 - PROCEDIMENTOS<br>
 └── 📑 exercicios-algoritmos<br>
 
 ### 🚀 Como Usar
