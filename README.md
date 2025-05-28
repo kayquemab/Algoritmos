@@ -17,6 +17,7 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 ├── 📂 PASSO 07 - REPETIÇÃO COM PARA<br>
 ├── 📂 PASSO 08 - VETORES<br>
 ├── 📂 PASSO 09 - PROCEDIMENTOS<br>
+├── 📂 PASSO 10 - FUNÇÕES<br>
 └── 📑 exercicios-algoritmos<br>
 
 ### 🚀 Como Usar
