@@ -18,8 +18,8 @@ Aqui estão soluções em pseudocódigo, desenvolvidas no Visualg para praticar 
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📂 PASSO 08 - VETORES<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 📂 PASSO 09 - PROCEDIMENTOS<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 📂 PASSO 10 - FUNÇÕES<br>
-├── 📄 README.md<br>
-└── 📄 Documentação.pdf<br>
+├── 📄 Documentação.pdf<br>
+└── 📄 README.md<br>
 
 ### 🚀 Como Usar
 
